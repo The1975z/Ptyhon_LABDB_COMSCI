@@ -3,6 +3,9 @@
 โปรเจ็กต์นี้เป็นระบบการจัดการตัวละครอนิเมะ ที่พัฒนาโดยใช้ Python และ Tkinter สำหรับการสร้าง GUI รวมถึงการเชื่อมต่อกับฐานข้อมูล MySQL โดยใช้ MySQL Connector ทํา CRUD
 ## COMSCI-LABDB
 
+## Tools Build
+pyinstaller --onefile --windowed main.py
+
 ## วิธีการใช้งาน
 
 1. คลิกที่แท็บ `Search` เพื่อค้นหาตัวละครในฐานข้อมูล
