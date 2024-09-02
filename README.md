@@ -1,7 +1,14 @@
 # Python LAB DB
 
 โปรเจ็กต์นี้เป็นระบบการจัดการตัวละครอนิเมะ ที่พัฒนาโดยใช้ Python และ Tkinter สำหรับการสร้าง GUI รวมถึงการเชื่อมต่อกับฐานข้อมูล MySQL โดยใช้ MySQL Connector ทํา CRUD
-## COMSCI-LABDB
+## COMSCI-LABDB IMAGE UI
+https://the1975.xyz/static/image/UI1.PNG
+https://the1975.xyz/static/image/UI2.PNG
+https://the1975.xyz/static/image/UI3.PNG
+https://the1975.xyz/static/image/UI4.PNG
+https://the1975.xyz/static/image/UI5.PNG
+https://the1975.xyz/static/image/UI6.PNG
+https://the1975.xyz/static/image/UI7.PNG
 
 ## Tools Build
 pyinstaller --onefile --windowed main.py
