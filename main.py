@@ -14,7 +14,7 @@ import requests
 # Load environment variables
 load_dotenv()
 
-# Database connection pool
+# เชื่อมต่อ Database 
 connection_pool = mysql.connector.pooling.MySQLConnectionPool(
     pool_name="mypool",
     pool_size=5,
